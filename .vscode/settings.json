@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
